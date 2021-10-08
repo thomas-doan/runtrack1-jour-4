@@ -1,0 +1,132 @@
+        body {
+            background: url(https://images2.alphacoders.com/774/774364.jpg) fixed;
+            float: right;
+        }
+        
+        .title-inovlab {
+            color: white;
+            font-size: 2rem;
+        }
+        
+        h1 {
+            font-size: 3rem;
+        }
+        
+        .titreh1j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .titreh2j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .titreh3j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .titreh4j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .titreh5j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .titreh6j {
+            color: yellow;
+            text-decoration: none;
+            font-size: 2rem;
+        }
+        
+        .textsection1 {
+            color: white;
+            font-size: 2rem;
+        }
+        
+        .textsection2 {
+            color: rgb(31, 29, 29);
+            background-color: white;
+            border-radius: 10px;
+        }
+        
+        .textsection6 {
+            color: white;
+            font-size: 2rem;
+            text-align: center;
+        }
+        
+        #boxx {
+            display: flex;
+            flex-direction: row;
+        }
+        
+        img {
+            width: 350px;
+            height: 350px;
+            float: right;
+        }
+        
+        .titrelist1 {
+            color: rgb(180, 172, 172);
+            font-size: 1.5rem;
+        }
+        
+        .titrelist2 {
+            color: rgb(180, 172, 172);
+            font-size: 1.5rem;
+        }
+        
+        .endtitre1 {
+            grid-area: text;
+            color: rgb(180, 172, 172);
+            font-size: 1.5rem;
+        }
+        
+        .titreh5j {
+            text-align: center;
+        }
+        
+        .list3 {
+            grid-area: text;
+        }
+        
+        #box1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        
+        .section3 {
+            background-color: white;
+            border-radius: 18px;
+        }
+        
+        .section4 {
+            background-color: white;
+            border-radius: 18px;
+        }
+        
+        #section5 {
+            text-align: center;
+            font-size: 2rem;
+            color: white;
+        }
+        
+        .list1 {
+            grid-area: text;
+            margin: 25px;
+        }
+        
+        .buttonend {
+            text-align: center;
+        }
